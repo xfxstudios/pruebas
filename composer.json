@@ -1,0 +1,19 @@
+{
+	"name": "xfxstudios/pruebas",
+	"description": "Prueba de Instalacion con Composer",
+	"license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Carlos Quintero",
+            "email": "info.fxstudios@gmail.com",
+            "homepage": "https://github.com/xfxstudios",
+            "role": "Developer"
+        }
+    ],
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"autoload": {
+		"files": ["prueba.php"]
+	}
+}
